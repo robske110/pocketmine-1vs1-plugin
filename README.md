@@ -19,7 +19,9 @@ Cool things:
 
 -> Then, the players can start a duel doing /match, a countdown before the fight will start (only 2 players per arena) and they will be teleported in an arena and they will get a sword, armor and food and all their effects will be removed for fight. The fight last 3 minutes and at the end of the timer if there is no winners, the duel ends and the players are teleported back to the spawn.
 
--> You can place a sign and write on the 1st line : « [1vs1] » to have a 1vs1 stats sign with the numbers of active arenas and the number of the players in the queue. The signs refreshes every 5 seconds.
+-> You can place a sign and write on the 1st line : [1vs1] to have a 1vs1 stats sign with the numbers of active arenas and the number of the players in the queue. The signs refreshes every 5 seconds.
+
+-> You can place Join signs with on the first line [PvP] or [1vs1Join] you can define the rest of the sign yourself!
 
 ### Technical:
 -> After a fight, the players are teleported back to the spawn of the default level server.
