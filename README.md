@@ -7,6 +7,7 @@ Cool things:
 -> Multi arenas system
 -> Auto queue management
 -> Statistics signs
+-> Join signs (WorkInProgress)
 
 
 ### How to use:
@@ -39,3 +40,7 @@ Cool things:
 -> You will able to change the spawn distance in a arena and the timers for the matches in an update soon.
 
 -> Any remarks ? Tell me it for a better world x) !
+
+### Known Bugs:
+
+-> If a player quits he will not be teleported to spawn on rejoin!
