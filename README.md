@@ -5,8 +5,11 @@ You want to make 1vs1s on your MCPE server ? This plugin is for you !
 
 Cool things:
 -> Multi arenas system
+
 -> Auto queue management
+
 -> Statistics signs
+
 -> Join signs (WorkInProgress)
 
 
