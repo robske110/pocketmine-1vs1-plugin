@@ -127,7 +127,7 @@ class Arena{
 	
 	private function giveKit(Player $player){
 		//Initialise Variables
-        $Bread = 0; 
+                $Bread = 0; 
         
 		// Clear inventory
 		$player->getInventory()->clearAll();
@@ -151,7 +151,7 @@ class Arena{
 		// SetHealth&removeAllEffects&SetFoodToFull
 		$player->setHealth(20);
 		$player->removeAllEffects();
-        	//$sender->setFood(20); //WILL CRASH IF ORIGINAL POCKETMINE USED! (ImagicalMine)
+        	//$player->setFood(20); //WILL CRASH IF ORIGINAL POCKETMINE USED! (ImagicalMine must be used!)
 
    }
    
@@ -241,6 +241,5 @@ class Arena{
 	 	$player->getLevel()->addParticle($particle);
     }
 }
-
 
 
